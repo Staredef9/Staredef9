@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Staredef9
 - 👀 I’m interested in gamedev, game design and game programming.
-- 🌱 I’m currently learning C and Computer Science important concepts at School 42 Firenze.
-- 💞️ I’m looking to collaborate on C projects.
+- 🌱 I’m currently learning C and Computer Science key concepts at School 42 Firenze.
+
 
 [![fsalvett's 42 stats](https://badge42.vercel.app/api/v2/clfuug9fy003008l0wzr5gf4l/stats?cursusId=21&coalitionId=284)](https://github.com/JaeSeoKim/badge42)
 <!---
