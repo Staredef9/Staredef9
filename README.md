@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Staredef9
-- 👀 I’m interested in gamedev, game design and game programming.
+- 👋 Hi, I’m Federico Salvetti
+- 👀 I’m interested in game design and game programming, especially game engine programming.
+- 👀 I'm also very curious about Networks and how internet works.
 - 🌱 I’m currently learning C and Computer Science key concepts at School 42 Firenze.
 
 
